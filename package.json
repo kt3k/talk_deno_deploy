@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "remarker": "^1.12.1"
+  },
+  "scripts": {
+    "start": "remarker"
+  }
+}
