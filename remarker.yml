@@ -1,7 +1,7 @@
 dest: docs
 port: 30000
 remarkConfig:
-  slideNumberFormat: 'toranomon.deno #0 @kt3k - %current% / %total%'
+  slideNumberFormat: 'toranoana.deno #0 @kt3k - %current% / %total%'
 css: |
   body {
     font-family: 'Avenir Next', 'Hiragino Kaku Gothic ProN', 'Meiryo', 'メイリオ', sans-serif;

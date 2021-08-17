@@ -39,14 +39,20 @@ class: middle
 - ベータ期間中は無料。正式リリース後もある程度の無料枠がある予定。
 
 ---
+class: middle
+# Deno Deploy のここがすごい
 
+- 世界25リージョンへの自動デプロイ
+
+<img src="./assets/regions.png" width="750" />
+
+---
 class: center
 # Deno と Deno Deploy の関係
 
 <img src="./assets/schema.png" width="600" />
 
 Deno の architecture
-
 ---
 
 # Deno と Deno Deploy の関係
