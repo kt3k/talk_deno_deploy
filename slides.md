@@ -120,7 +120,7 @@ class: middle, center, inverse
 # サンプルコード
 
 ```ts
-ddEventListener("fetch", (e) => {
+addEventListener("fetch", (e) => {
   e.respondWith(
     new Response("Hello, world!", {
       status: 200,
